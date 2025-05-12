@@ -1,4 +1,4 @@
-Koha Bird – Avurudu Special Game
+Koha – Avurudu Special Game
 A simple 2D Flappy Bird-style game made for Yes FM 101 / 100.8 in Sri Lanka to celebrate the Sinhala and Tamil New Year (Avurudu). In this game, you control the Koha — the bird that traditionally signals the start of the New Year — flying through the jungle, dodging trees and obstacles.
 
 🎮 Gameplay
